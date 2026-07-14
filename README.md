@@ -34,7 +34,7 @@ Fonts: Google Fonts (Courier Prime, Lora, JetBrains Mono)
 
 🖼️ Preview
 
-Add a screenshot or GIF of the app here for extra polish:
+Sample Screenshot:
 
 <img width="833" height="861" alt="image" src="https://github.com/user-attachments/assets/5a374413-09b4-4dbd-ae72-160f8c512b4e" />
 
